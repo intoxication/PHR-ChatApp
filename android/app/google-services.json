@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "121425083955",
-    "firebase_url": "https://phr-chat-skripsi.firebaseio.com",
-    "project_id": "phr-chat-skripsi",
-    "storage_bucket": "phr-chat-skripsi.appspot.com"
+    "project_number": "288229450169",
+    "firebase_url": "https://vetdoc-d2e49.firebaseio.com",
+    "project_id": "vetdoc-d2e49",
+    "storage_bucket": "vetdoc-d2e49.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:121425083955:android:552ab07354c0287983ad46",
+        "mobilesdk_app_id": "1:288229450169:android:2b91827acbbf5789595668",
         "android_client_info": {
           "package_name": "com.example.phr_skripsi_chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "121425083955-eioqqnfcjednumij11gtv3ig69un5j1e.apps.googleusercontent.com",
+          "client_id": "288229450169-iesbb9lhqihq6dj0doh0c6n1l134c53a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB-aEIPuSQXkmjmiIzXl5whelVSEP5OQTI"
+          "current_key": "AIzaSyCTv5wtX0RKcE-vqhY_2dwoY5oe5BybfsY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "121425083955-eioqqnfcjednumij11gtv3ig69un5j1e.apps.googleusercontent.com",
+              "client_id": "288229450169-iesbb9lhqihq6dj0doh0c6n1l134c53a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
